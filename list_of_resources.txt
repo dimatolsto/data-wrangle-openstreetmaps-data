@@ -1,0 +1,11 @@
+List of resources
+
+http://joelonsoftware.com/articles/Unicode.html
+https://docs.python.org/2/howto/unicode.html
+http://effbot.org/zone/element-iterparse.htm#incremental-parsing
+http://stackoverflow.com/questions/7697710/python-running-out-of-memory-parsing-xml-using-celementtree-
+http://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/
+http://docs.mongodb.org/getting-started/python/
+http://api.mongodb.org/python/current/api/pymongo/collection.html
+http://docs.mongodb.org/manual/meta/aggregation-quick-reference/
+http://stackoverflow.com/questions/17489789/why-do-i-get-a-pymongo-cursor-cursor-when-trying-to-query-my-mongodb-db-via-pymo

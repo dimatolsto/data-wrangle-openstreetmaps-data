@@ -1,0 +1,4 @@
+Link to the map position: New York, NY
+http://www.openstreetmap.org/relation/175905
+osm xml file has been downloaded from
+https://mapzen.com/metro-extracts/
